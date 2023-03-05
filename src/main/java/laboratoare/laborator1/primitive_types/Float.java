@@ -1,4 +1,4 @@
-package laboratoare.laborator1.primitive_types;
+package main.java.laboratoare.laborator1.primitive_types;
 
 /**
  * @author cvoinea

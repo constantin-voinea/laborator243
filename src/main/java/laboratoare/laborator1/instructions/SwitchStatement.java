@@ -1,4 +1,4 @@
-package laboratoare.laborator1.instructions;
+package main.java.laboratoare.laborator1.instructions;
 
 import java.util.Scanner;
 

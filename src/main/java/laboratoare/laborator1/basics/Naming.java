@@ -1,4 +1,4 @@
-package laboratoare.laborator1.basics;
+package main.java.laboratoare.laborator1.basics;
 
 /**
  * @author cvoinea

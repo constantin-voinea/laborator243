@@ -2,7 +2,7 @@
  * This must be the first executable line in a Java file. It represents the location of this file.
  * Not present in classes that are not part of any package. However, this is considered a bad project design.
  */
-package laboratoare.laborator1.basics;
+package main.java.laboratoare.laborator1.basics;
 
 /*
  * This is also a multi-line comment. Comments are not executable code.
