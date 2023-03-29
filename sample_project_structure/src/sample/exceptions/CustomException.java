@@ -1,4 +1,4 @@
-package main.java.sample_project_structure.src.sample.exceptions;
+package sample.exceptions;
 
 /**
  * @author cvoinea

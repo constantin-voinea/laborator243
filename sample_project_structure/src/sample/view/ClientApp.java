@@ -1,4 +1,4 @@
-package main.java.sample_project_structure.src.sample.view;
+package sample.view;
 
 import sample.domain.Employee;
 import sample.exceptions.CustomException;

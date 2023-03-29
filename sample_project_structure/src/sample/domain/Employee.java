@@ -1,4 +1,4 @@
-package main.java.sample_project_structure.src.sample.domain;
+package sample.domain;
 
 import java.time.LocalDate;
 import java.util.Objects;
