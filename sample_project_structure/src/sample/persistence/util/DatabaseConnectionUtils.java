@@ -10,7 +10,7 @@ import java.sql.SQLException;
 public class DatabaseConnectionUtils {
 
     private static final String MYSQL_JDBC_DRIVER = "com.mysql.cj.jdbc.Driver";
-    private static final String DB_URL = "jdbc:mysql://localhost/eap";
+    private static final String DB_URL = "jdbc:mysql://localhost/laborator10";
     private static final String USERNAME = "root";
     private static final String PASSWORD = "root";
 
